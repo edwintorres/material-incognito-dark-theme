@@ -7,23 +7,22 @@
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png",
 			"theme_toolbar": "images/theme_toolbar.png",
 			"theme_tab_background": "images/theme_tab_background.png",
 			"theme_tab_background_incognito": "images/theme_tab_background.png",
 			"theme_tab_background_v": "images/theme_tab_background.png"
 		},
 		"colors": {
-			"frame": [40, 43, 45],
+			"frame":[0,0,0],
 			"frame_inactive": [56, 59, 61],
 			"frame_incognito": [40, 43, 45],
 			"frame_incognito_inactive": [56, 59, 61],
-			"toolbar": [80, 80, 80],
-			"tab_text": [255, 255, 255],
+			"toolbar": [255, 255, 255],
+			"tab_text": [0, 0, 0],
 			"tab_background_text": [255, 255, 255],
-			"bookmark_text": [255, 255, 255],
-			"ntp_background": [48, 48, 48],
-			"ntp_text": [255, 255, 255]
+			"bookmark_text": [0, 0, 0],
+			"ntp_background": [255, 255, 255],
+			"ntp_text": [0, 0, 0]
 		},
 		"tints": {
 			"buttons": [0, 0, 0.85]
